@@ -4,12 +4,6 @@
 
 Este repositorio contiene una serie de notebooks en donde se exploran y analizan dos bases de datos para la realización de modelos de clasificación para la clasificación de péptidos antimicrobianos con funcionalidades especificas. 
 
-## Instrucciones de Uso
-
-1. Seleccione el notebook que desea reproducir
-2. Haga clic en el botón "Open in Colab" en cada notebook para abrirlo en Google Colab.
-3. Ejecute las celdas de código en el orden especificado para reproducir los análisis y visualizaciones.
-
 ## Autores
 
 - Santiago Rivera Montoya
